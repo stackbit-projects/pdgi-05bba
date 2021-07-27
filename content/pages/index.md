@@ -13,6 +13,7 @@ sections:
       - label: Discover our boutique hotel
         url: /features
         style: primary
+        icon: arrow-right
   - section_id: features
     type: section_features
     background: gray
