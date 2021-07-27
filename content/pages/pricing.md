@@ -1,5 +1,5 @@
 ---
-title: Rooms
+title: Pricing
 sections:
   - section_id: rooms
     type: section_pricing
