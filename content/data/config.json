@@ -151,7 +151,7 @@
                 "submit_label": "Subscribe"
             }
         ],
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Terms of Service",
