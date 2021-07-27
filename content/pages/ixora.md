@@ -26,7 +26,7 @@ sections:
       - label: Reserve Now
         url: /signup
         style: primary
-      - label: View Demo
+      - label: View All Rooms
         url: '#'
         style: secondary
   - section_id: call-to-action
