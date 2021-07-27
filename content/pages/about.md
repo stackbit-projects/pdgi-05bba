@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: About Our Boutique Hotel
       keyName: property
     - name: 'og:description'
       value: This is the about page
