@@ -10,7 +10,7 @@ sections:
       ​...on a cliff overlooking an untouched beach, you find a tropical...
 
     actions:
-      - label: Learn More
+      - label: Discover our boutique hotel
         url: /features
         style: primary
   - section_id: features
