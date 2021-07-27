@@ -40,11 +40,6 @@
                 "type": "action"
             },
             {
-                "label": "Sign Up",
-                "url": "/signup",
-                "style": "primary"
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "link",
@@ -54,6 +49,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Sign Up",
+                "url": "/signup",
+                "style": "primary"
             }
         ]
     },
