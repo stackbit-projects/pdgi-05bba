@@ -1,5 +1,5 @@
 ---
-title: rooms
+title: Room IXORA
 sections:
   - section_id: features
     type: section_content
