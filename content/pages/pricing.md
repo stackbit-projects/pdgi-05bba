@@ -30,7 +30,7 @@ sections:
           * Nullam sollicitudin ante
         highlight: false
         actions:
-          - label: View Triple Rooms
+          - label: Discover Our Triple Rooms
             url: /signup
             style: primary
       - title: Double Rooms
