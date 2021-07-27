@@ -50,9 +50,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: >-
-          PLAY… sports and get active, for examplepracticing fishing, horseback
-          riding or surfing.
+      - title: PLAY… get active
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
