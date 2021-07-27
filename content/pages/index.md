@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: GETAWAY
     content: |+
       ​...on a cliff overlooking an untouched beach, you find a tropical...
 
