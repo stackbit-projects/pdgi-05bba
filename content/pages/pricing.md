@@ -16,7 +16,7 @@ sections:
           * Suspendisse ut lacus
           * Etiam eget dui a augue
         actions:
-          - label: Discover Our Studios
+          - label: View Our Studios
             url: /signup
             style: secondary
       - title: Triple Rooms
