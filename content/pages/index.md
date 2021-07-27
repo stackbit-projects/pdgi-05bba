@@ -6,9 +6,9 @@ sections:
     image: /images/6_thumb.jpg
     image_alt: 'Boutique hotel on a cliff in Veraguas, Panama'
     title: GETAWAY
-    content: |+
-      ​...on a cliff overlooking an untouched beach, you find a tropical...
-
+    content: >
+      ​... to a tropical boutique hotel on a cliff overlooking an untouched
+      beach...
     actions:
       - label: Discover our boutique hotel
         url: /features
