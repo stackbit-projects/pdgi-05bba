@@ -6,7 +6,7 @@ subtitle: >-
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
-  title: About Us
+  title: About Our Boutique Hotel
   description: This is the about page
   extra:
     - name: 'og:type'
