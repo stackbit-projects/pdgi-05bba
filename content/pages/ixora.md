@@ -1,7 +1,7 @@
 ---
 title: Room IXORA
 sections:
-  - section_id: features
+  - section_id: ixora
     type: section_content
     background: gray
     image: images/feature1.png
