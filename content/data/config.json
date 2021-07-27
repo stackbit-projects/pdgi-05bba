@@ -41,7 +41,7 @@
             },
             {
                 "label": "Our Hotel",
-                "url": "lorem-ipsum",
+                "url": "about-hotel",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
