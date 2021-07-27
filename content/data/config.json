@@ -51,7 +51,7 @@
                 "type": "action"
             },
             {
-                "label": "Sign Up",
+                "label": "Book Now",
                 "url": "/signup",
                 "style": "primary"
             }
