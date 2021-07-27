@@ -15,7 +15,7 @@
             },
             {
                 "label": "Rooms",
-                "url": "/rooms",
+                "url": "/hotel-rooms",
                 "style": "link"
             },
             {
