@@ -63,5 +63,5 @@ seo:
     - name: 'twitter:image'
       value: images/feature1.png
       relativeUrl: true
-layout: landingage
+layout: landing
 ---
