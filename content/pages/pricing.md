@@ -35,7 +35,7 @@ sections:
             style: primary
       - title: Double Rooms
         subtitle: For very large businesses
-        price: $149/m
+        price: $85/m
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
