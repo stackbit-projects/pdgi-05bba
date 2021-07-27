@@ -1,7 +1,7 @@
 ---
 title: Rooms
 sections:
-  - section_id: pricing
+  - section_id: rooms
     type: section_pricing
     background: gray
     title: Comfortable accomodations
