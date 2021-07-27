@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import { Link, withPrefix, markdownify, logoImage } from '../utils';
+import { Link, withPrefix, markdownify } from '../utils';
 
 export default class FooterText extends React.Component {
     render() {
@@ -17,11 +17,11 @@ export default class FooterText extends React.Component {
                 {image &&
                     (imageUrl ? (
                         <Link className="widget-image" href={withPrefix(imageUrl)}>
-                            <img src={withPrefix(logoImage)} alt={logoImageAlt} />
+                            <img src={withPrefix(image)} alt={imageAlt} />
                         </Link>
                     ) : (
                         <p className="widget-image">
-                            <img src={withPrefix(logoImage)} alt={logoImageAlt} />
+                            <img src={withPrefix(image)} alt={imageAlt} />
                         </p>
                     ))}
                 {title && <h2 className="widget-title">{title}</h2>}
