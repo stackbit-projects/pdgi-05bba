@@ -101,7 +101,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Latest Posts
+    title: Comfortable accomodations
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
