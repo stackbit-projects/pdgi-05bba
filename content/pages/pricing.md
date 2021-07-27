@@ -21,7 +21,7 @@ sections:
             style: secondary
       - title: Triple Rooms
         subtitle: For medium-sized businesses
-        price: $49/m
+        price: $98/m
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
