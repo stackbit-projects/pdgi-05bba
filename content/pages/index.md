@@ -50,7 +50,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Indulge with delicious food & drinks
+      - title: PLAY…
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
