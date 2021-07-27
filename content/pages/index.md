@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: /images/6_thumb.jpg
-    image_alt: Boutique hotel on a cliff
+    image_alt: Boutique hotel on a cliff in Veraguas
     title: GETAWAY
     content: |+
       ​...on a cliff overlooking an untouched beach, you find a tropical...
