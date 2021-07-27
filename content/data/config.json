@@ -20,7 +20,7 @@
             },
             {
                 "label": "Facilities",
-                "url": "lorem-ipsum",
+                "url": "facilities",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
