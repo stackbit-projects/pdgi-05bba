@@ -29,7 +29,7 @@
                 "style": "link"
             },
             {
-                "label": "Guest Reviews",
+                "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
@@ -40,7 +40,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Guest Reviews",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
