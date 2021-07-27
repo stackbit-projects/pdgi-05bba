@@ -2,7 +2,7 @@
 title: Rooms
 sections:
   - section_id: rooms
-    type: section_rooms
+    type: section_pricing
     background: gray
     title: Comfortable accomodations
     subtitle: You can have a separate pricing page or list everything on the home page.
